@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zapatil" alt="zapatil" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **zashipatil1805@gmail.com**
 
