@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zashi Patil</h1>
-<h3 align="center">Third year Computer Engineering student at PVGCOE, Nashik | Programmer</h3>
+<h3 align="center">Computer Engineer | Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zapatil&label=Profile%20views&color=0e75b6&style=flat" alt="zapatil" /> </p>
 
